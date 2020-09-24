@@ -13,8 +13,8 @@
 #define LED_G						(PH2)
 
 
-//#define ENABLE_SPI_POLLING
-#define ENABLE_SPI_IRQ
+#define ENABLE_SPI_POLLING
+//#define ENABLE_SPI_IRQ
 
 #define MASTER_DATA_NUM			(512)
 
